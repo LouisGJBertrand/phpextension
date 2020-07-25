@@ -1,0 +1,10 @@
+{
+    "SimplePHPLibVersion":0,
+    "LibraryInfos":{
+        "Name":"PHPExtension",
+        "Authors":["Louis BERTRAND <adressepro111@pylott.yt>"],
+        "Version":[1,0,0,"Snapshot"],
+        "License":"MIT"
+    },
+    "LibraryEntryFile":"extension"
+}
